@@ -1,7 +1,5 @@
 # PostgreSQL Database
-Completed this project 8/8/2017 for The Iron Yard During Week 6
-
-The Iron Yard Daily Project: Use a PostgreSQL database
+The Iron Yard Week 7, Day 2: Daily Project: Create and edit a database table using SQL
 
 Create a PostgreSQL database called `todolist` with a table called `todos` to be used for storing todo items.
 
